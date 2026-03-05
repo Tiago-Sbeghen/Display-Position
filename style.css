@@ -21,6 +21,11 @@ body{
     background-color: red;
 }
 
+.green{
+    padding-bottom: 320px;
+    background-color: green;
+}
+
 
 .flex{
     display: flex;
