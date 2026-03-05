@@ -16,6 +16,12 @@ body{
     background-color: yellow;
 }
 
+.red{
+    padding-right: 320px;
+    background-color: red;
+}
+
+
 .flex{
     display: flex;
 }
