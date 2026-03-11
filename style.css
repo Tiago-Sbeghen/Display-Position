@@ -29,3 +29,12 @@ body{
 .flex{
     display: flex;
 }
+
+.ball{
+    border-radius: 50%;
+}
+
+.org{
+    padding-right: 540px;
+    background-color: orangered;
+}
